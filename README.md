@@ -10,7 +10,7 @@ Previously it was SLP token under Bitcoin Cash blockchain, and gained 3% monthly
 
 ** Buy rate for new investor
 
-A SLP Gannium token's price was 0.00001 BCH per token. That is equal to $0.01. A MATIC token costs $1 approximately. New investor can buy 100 Polygon Gannium tokens for 1 MATIC token. 
+A SLP Gannium token's price was 0.00001 BCH per token. That is equal to $0.005. A MATIC token costs $1 approximately. New investor can buy 200 Polygon Gannium tokens for 1 MATIC token. 
 
 ** USE CASES
 
