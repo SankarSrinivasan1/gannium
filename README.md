@@ -24,18 +24,3 @@ https://polygonscan.com/address/0x0d9d668c4ae1d64b859930ddcd8cd9539a80ac93
 
 Stay updated
 
-<form action="https://www.coinpayments.net/index.php" method="post">
-	<input type="hidden" name="cmd" value="_pay">
-	<input type="hidden" name="reset" value="1">
-	<input type="hidden" name="merchant" value="eec2a414e8812e7b23783cd8407f74b2">
-	<input type="hidden" name="item_name" value="Ganniun Token">
-	<input type="hidden" name="currency" value="USD">
-	<input type="hidden" name="amountf" value="0.00500000">
-	<input type="hidden" name="quantity" value="10000">
-	<input type="hidden" name="allow_quantity" value="1">
-	<input type="hidden" name="want_shipping" value="0">
-	<input type="hidden" name="success_url" value="https://github.com/SankarSrinivasan1/gannium">
-	<input type="hidden" name="cancel_url" value="https://github.com/SankarSrinivasan1/gannium">
-	<input type="hidden" name="allow_extra" value="1">
-	<input type="image" src="https://www.coinpayments.net/images/pub/buynow-wide-blue.png" alt="Buy Now with CoinPayments.net">
-</form>
